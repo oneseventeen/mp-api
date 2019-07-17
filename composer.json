@@ -1,5 +1,5 @@
 {
-    "name": "smadeira/ministry-platform-api",
+    "name": "oneseventeen/mp-api",
     "description": "PHP API wrapper for the Ministry Platform REST API",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,9 @@
         {
             "name": "Scott Madeira",
             "email": "smadeira@zoominternet.net"
+        },
+        {
+          "name": "Chris Adams"
         }
     ],
     "require": {
